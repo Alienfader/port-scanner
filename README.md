@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Below is a sample README file in Markdown format for your Bash port scanner. Feel free to modify it as needed.
 
----
 
 ```markdown
 # Alienfader's Simple Port Scanner
