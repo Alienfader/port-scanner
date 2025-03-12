@@ -79,20 +79,6 @@ The script performs the following tasks:
 4. **Concurrency:**  
    The script leverages `xargs -P` to run scans concurrently, allowing multiple ports to be checked at once.
 
-## Limitations and Potential Improvements
-
-- **Performance:**  
-  Scanning all 65,535 ports in Bash may be slower than using dedicated tools like `nmap`.
-
-- **Banner Grabbing:**  
-  The current banner grabbing is basic and may not work reliably for all services or protocols.
-
-- **Error Handling:**  
-  Further improvements could include better logging and error handling for timeouts or failed scans.
-
-- **Netcat Variations:**  
-  Different versions of netcat may require adjustments to the script due to differences in supported flags.
-
 ## Author
 
 **Alienfader**
