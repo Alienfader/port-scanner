@@ -89,7 +89,3 @@ If you have any questions or suggestions, feel free to reach out.
 
 This project is licensed for educational and authorized security testing purposes only.
 ```
-
----
-
-You can save the above text as `README.md` in your project directory.
